@@ -1,7 +1,7 @@
 👋 Hi, I’m @Gavins 
 👀 Electronics Hobbyist
 😃 IoT Developer
-😎 Circuit Board Designer
+😎 Hardware Designer
 
 <!---
 GavinsMJ/GavinsMJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
