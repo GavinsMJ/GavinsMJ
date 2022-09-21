@@ -8,7 +8,7 @@
 &nbsp;
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GavinsMJ&count_private=true&show_icons=true&hide=prs,issues&include_all_commits=true&hide_border=false&theme=tokyonight" alt="Gavins' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GavinsMJ&langs_count=10&layout=compact&theme=radical" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GavinsMJ&count_private=true&show_icons=true&hide=prs,issues&hide_border=false&theme=tokyonight" alt="Gavins' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GavinsMJ&langs_count=10&layout=compact&theme=radical" /></a> |
 | ------------- | ------------- |
 
   <!-- ### ⚡ GitHub Stats
