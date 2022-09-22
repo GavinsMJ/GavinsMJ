@@ -1,7 +1,7 @@
 👋 Hi, I’m @Gavins 
 👀 Electronics Hobbyist
 😃 IoT Developer
-😎 Hardware Designer
+😎 Hardware Designer && Software Engineer
 
 
 \
@@ -12,7 +12,7 @@
 | ------------- | ------------- |
 
   <!-- ### ⚡ GitHub Stats
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=GavinsMJ&count_private=true&show_icons=true&hide=prs,issues&include_all_commits=true&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=GavinsMJ&count_private=true&show_icons=true&hide=prs,issues&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinsMJ&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
